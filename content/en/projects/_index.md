@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-weight: 10
+weight: 2
 ---
 
-My projects. 
+My projects (section to be filled).

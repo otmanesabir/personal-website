@@ -1,7 +1,7 @@
 ---
 title: "About"
 image: "profile.jpg"
-weight: 3
+weight: 1
 ---
 
 I am devoted to learning more about grounded architectures of cognition and the collaboration of neuroscience and machine learning. I am currently working as an Intern Software Engineer at ELISE, - developing new software features, implementing geometrical algorithms, and extending the applications API.

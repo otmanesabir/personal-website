@@ -1,6 +1,6 @@
 ---
 title: "Organizational"
-weight: 2
+weight: 3
 resources:
     - src: jacobsHack.jpg
       params:
