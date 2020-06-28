@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>code on Otmane Sabir</title>
+    <link>http://sabirotmane.com/tags/code/</link>
+    <description>Recent content in code on Otmane Sabir</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 May 2020 20:18:53 -0500</lastBuildDate>
+    
+	<atom:link href="http://sabirotmane.com/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to my Website</title>
+      <link>http://sabirotmane.com/blog/long-form-post/</link>
+      <pubDate>Sat, 30 May 2020 20:18:53 -0500</pubDate>
+      
+      <guid>http://sabirotmane.com/blog/long-form-post/</guid>
+      <description>This is my first blog post trial.</description>
+    </item>
+    
+  </channel>
+</rss>
